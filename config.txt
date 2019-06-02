@@ -1,6 +1,6 @@
-token=
-owner=  
-prefix= 
-game= Type help
+token=NTg0ODcyODM0NzI0MTM0OTMz.XPRPTQ.w7-Uq_yKbYb5aK0T5Y0R6ArhXiw
+owner=  517664398010089472
+prefix= B
+game= Bplay
 stayinchannel=true
 songinstatus=true
